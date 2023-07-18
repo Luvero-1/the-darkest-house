@@ -12,18 +12,15 @@
   "system": "sandbox",
   "manifest": "https://raw.githubusercontent.com/Luvero-1/the-darkest-house/main/world.json",
   "download": "https://codeload.github.com/Luvero-1/the-darkest-house/zip/main",
-  "background": "",
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "0.14.0(RC7)",
   "id": "the-darkest-house",
-  "system": "sandbox",
   "joinTheme": "default",
   "coreVersion": "11.305",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "systemVersion": "0.14.0(RC7)",
-  "lastPlayed": "Tue Jul 18 2023 16:07:16 GMT+0200 (hora de verano de Europa central)"
+  "lastPlayed": "Tue Jul 18 2023 20:48:36 GMT+0200 (hora de verano de Europa central)"
 }
