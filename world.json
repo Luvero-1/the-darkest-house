@@ -1,0 +1,13 @@
+{
+  "title": "the darkest house",
+  "id": "the-darkest-house",
+  "system": "sandbox",
+  "joinTheme": "default",
+  "coreVersion": "11.305",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "0.14.0(RC7)",
+  "lastPlayed": "Tue Jul 18 2023 16:07:16 GMT+0200 (hora de verano de Europa central)"
+}
