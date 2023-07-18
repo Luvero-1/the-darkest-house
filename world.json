@@ -1,5 +1,21 @@
 {
   "title": "the darkest house",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Luvero-1/the-darkest-house",
+  "version": "0.1.0",
+  "system": "sandbox",
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/the-darkest-house/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/the-darkest-house/zip/main",
+  "background": "",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.14.0(RC7)",
   "id": "the-darkest-house",
   "system": "sandbox",
   "joinTheme": "default",
