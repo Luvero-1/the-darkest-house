@@ -3,3 +3,13 @@
 2023/07/18-20:48:36.830 93c Level-0 table #5: 4671 bytes OK
 2023/07/18-20:48:36.836 93c Delete type=0 #3
 2023/07/18-20:48:36.836 93c Delete type=3 #2
+2023/07/18-21:37:08.084 1d2c Level-0 table #8: started
+2023/07/18-21:37:08.084 1d2c Level-0 table #8: 0 bytes OK
+2023/07/18-21:37:08.088 1d2c Delete type=0 #6
+2023/07/18-21:37:08.108 1d2c Manual compaction at level-0 from '!macros!VrUu1223lgqAOUxn' @ 72057594037927935 : 1 .. '!macros!VrUu1223lgqAOUxn' @ 0 : 0; will stop at '!macros!VrUu1223lgqAOUxn' @ 1 : 1
+2023/07/18-21:37:08.108 1d2c Compacting 1@0 + 0@1 files
+2023/07/18-21:37:08.125 1d2c Generated table #9@0: 1 keys, 1430 bytes
+2023/07/18-21:37:08.125 1d2c Compacted 1@0 + 0@1 files => 1430 bytes
+2023/07/18-21:37:08.131 1d2c compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/07/18-21:37:08.131 1d2c Delete type=2 #5
+2023/07/18-21:37:08.152 1d2c Manual compaction at level-0 from '!macros!VrUu1223lgqAOUxn' @ 1 : 1 .. '!macros!VrUu1223lgqAOUxn' @ 0 : 0; will stop at (end)

@@ -3,3 +3,7 @@
 2023/07/18-20:48:36.731 93c Level-0 table #5: 120665 bytes OK
 2023/07/18-20:48:36.737 93c Delete type=0 #3
 2023/07/18-20:48:36.737 93c Delete type=3 #2
+2023/07/18-21:37:08.192 1d2c Level-0 table #8: started
+2023/07/18-21:37:08.192 1d2c Level-0 table #8: 0 bytes OK
+2023/07/18-21:37:08.194 1d2c Delete type=0 #6
+2023/07/18-21:37:08.204 1d2c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
